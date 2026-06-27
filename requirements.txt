@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-mcp-adapters
+mcp[cli]
+python-dotenv
+notebook
+ipykernel
+pytest
